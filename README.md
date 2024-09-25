@@ -1,0 +1,2 @@
+# Performance-Analysis-and-Optimization-of-Cellular-Networks-Using-Data-Driven-Insights
+This project focuses on analyzing cellular network performance by studying data from various cells. It explores factors such as signal strength, traffic, and user load to identify key performance indicators. The goal is to optimize network efficiency, enhance resource allocation, and improve overall user experience.
